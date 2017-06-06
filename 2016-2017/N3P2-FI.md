@@ -1,15 +1,19 @@
 # Nerd's battle
 
-Description / proposition de valeur unique
+Combat epique strategique et humorisitique dans un univers decaler.
 
 ## Équipe
 
-* Nom Prénom
-* etc.
+* Leicht Theo
+* Karboubi Ahmed
+* Baillet Thomas
+* RoukMout
+* Skawand Dylan
+* Oliveira dos santos Stephane
 
 ## Resources
 
-* git : 
+* git : https://github.com/imThaku/Nerd-s-Battle.git
 * URL de publication : 
 
 # Mixé décalé
